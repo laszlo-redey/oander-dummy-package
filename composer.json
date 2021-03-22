@@ -1,0 +1,7 @@
+{
+  "name": "oander/dummy-package",
+  "description": "Dummy package to reserve OANDER namespace on packagist.",
+  "require": {
+    "php": ">=7.4"
+  }
+}
